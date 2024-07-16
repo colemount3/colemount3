@@ -10,7 +10,7 @@ https://discord.gg/7ZvC6cG9
 
 *To be completely honest, HireMeBot just example of an ai chatbot that I have made, and as with most AI's it is not always 100% accurate. Don't hesitate to reach out to me with inquiries as well*
 
-*Depending on when you are reading this, HireMeBot may or may not be active, but either way feel free to scroll up and explore some of the previous responces from HireMeBot*
+*Depending on when you are reading this, HireMeBot may or may not be active, but either way feel free to scroll up and explore some of the previous responses from HireMeBot*
 
 
 
