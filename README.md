@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 ## About me
-I am an Electrical Engineering student at Arizona State University set to graduate in 2026. I am interested in software, ML and robotics projects, and always interested in learning something new.
+I am an Electrical Engineering student at Arizona State University set to graduate in early 2026. I am interested in software, ML and robotics projects, and always interested in learning something new.
 
 ## HireMeBot
 Meet HireMeBot, a gpt-3.5-turbo powered discord bot that I have trained on my professional history. Feel free to ask it any quesitons you may have.
